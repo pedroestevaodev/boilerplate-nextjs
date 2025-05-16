@@ -1,18 +1,29 @@
+# Boilerplate Next.js (App Router)
+
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedro-Estevao/boilerplate-nextjs/master/public/img/logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedro-Estevao/boilerplate-nextjs/master/public/img/logo-gh.svg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/Pedro-Estevao/boilerplate-nextjs/master/public/img/logo.svg">
 </picture>
 
+<br/>
+
 This is a [Next.js](https://nextjs.org/) boilerplate developed during the course called [React Avançado](https://reactavancado.com.br/).
 
 ## What is inside?
+
+<p style="text-align: center;">
+  <a href="https://www.pedroestevao.com">
+    <img src="https://res.cloudinary.com/dge3g9rcw/image/upload/v1747395805/github/mmtgpb7prrdessl9w5mm.webp" alt="illustrative image" />
+  </a>
+</p>
 
 This project uses lot of stuff as:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
-- [NextJS](https://nextjs.org/)
+- [NextJS (App Router)](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/)
@@ -34,7 +45,7 @@ $ pnpm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Commands
 
@@ -67,9 +78,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 To start a new project based on this boilerplate just run the code:
 
 ```bash
-$ npx create-next-app -e https://github.com/Pedro-Estevao/boilerplate-nextjs
+$ npx create-next-app -e https://github.com/pedroestevaodev/boilerplate-nextjs.git
 # or
-$ yarn create next-app -e https://github.com/Pedro-Estevao/boilerplate-nextjs
+$ yarn create next-app -e https://github.com/pedroestevaodev/boilerplate-nextjs.git
 # or
-$ pnpm create next-app -e https://github.com/Pedro-Estevao/boilerplate-nextjs
+$ pnpm create next-app -e https://github.com/pedroestevaodev/boilerplate-nextjs.git
 ```
