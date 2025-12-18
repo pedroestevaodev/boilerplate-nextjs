@@ -79,7 +79,7 @@
     "lint-staged": "^14.0.1",
     "plop": "^4.0.1",
     "prettier": "3.0.3",
-    "storybook": "^8.0.8",
+    "storybook": "^8.6.15",
     "ts-jest": "^29.2.5",
     "ts-node-dev": "^2.0.0",
     "tsconfig-paths-webpack-plugin": "^4.1.0"
